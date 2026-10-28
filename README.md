@@ -16,9 +16,9 @@ Get the newest version from **[Releases](../../releases/latest)**:
 
 ## About the demo
 
-- 263 fictional returns to open, change and print (individuals, S corporations and
-  partnerships), and you can start new ones, including estates and trusts. Every name, number
-  and address in it is made up.
+- 288 fictional returns to open, change and print (individuals, S corporations, partnerships,
+  estates and trusts), and you can start new ones. Every name, number and address in it is made
+  up.
 - **Please don't type in real people's information.** Every printed page says
   "DEMO - NOT FOR FILING": nothing from it can be filed.
 - It works through **December 31, 2026**, then opens to a message saying the demo has ended.
