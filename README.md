@@ -16,7 +16,7 @@ Get the newest version from **[Releases](../../releases/latest)**:
 
 ## About the demo
 
-- 304 fictional returns to open, change and print (individuals, S corporations, partnerships,
+- 316 fictional returns to open, change and print (individuals, S corporations, partnerships,
   estates and trusts), and you can start new ones. Every name, number and address in it is made
   up.
 - **Please don't type in real people's information.** Every printed page says
